@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently registor as a CPA student in Seneca College
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about Linux, vim, Golang
